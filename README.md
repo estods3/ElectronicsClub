@@ -8,7 +8,6 @@ Program 1: Clock_Test
 Program 2: Clock_seconds_counter  
 Program 3: 24_hour_countdown (used for hackathons)  
 
-![Alt text](/pics/24hourcountdown.jpg?raw=true "24 hour countdown")
 ![Alt text](/pics/atMakeathon.jpg?raw=true "At Makeathon")
 
 ### Shift Register Workshop:
